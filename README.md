@@ -1,15 +1,8 @@
-# B351 Fall 2025 Final Project - Connect 4 AI Agent
+# Connect 4 AI Agent
 
 ## Group Members:
 - Alan Gawrys
 - Bennett Proffitt
-
-
-## Course Instructors:
-- Yijie Wang - yijwang (Mentor)
-- Yang - yw109
-- Leo - zwu1
-- Hasan - mshlib
 
 
 ## Description:
